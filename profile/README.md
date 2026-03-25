@@ -26,7 +26,7 @@ O projeto foi desenvolvido com foco em:
 
 - **Boas práticas de arquitetura** (Clean Architecture)
 - **Test-Driven Development (TDD)**
-- **Segurança** via Spring Security e AWS Cognito
+- **Segurança** via Spring Security
 - **Containerização** com Docker
 
 ---
