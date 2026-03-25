@@ -1,7 +1,5 @@
-<h1 align="center">POC Sou Swift</h1>
-
 <p align="center">
-Projeto de <strong>Proof of Concept (POC)</strong> desenvolvido em <strong>Java com Spring Boot 4</strong>, aplicando conceitos de <strong>Arquitetura Limpa</strong> e boas práticas de desenvolvimento.
+  <img src="logo.svg" alt="Logo POC Sou Swift" width="150" />
 </p>
 
 <p align="center">
@@ -9,6 +7,12 @@ Projeto de <strong>Proof of Concept (POC)</strong> desenvolvido em <strong>Java 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+# POC Sou Swift
+
+<p >
+Projeto de <strong>Proof of Concept (POC)</strong> desenvolvido em <strong>Java com Spring Boot 4</strong>, aplicando conceitos de <strong>Arquitetura Limpa</strong> e boas práticas de desenvolvimento.
 </p>
 
 ---
