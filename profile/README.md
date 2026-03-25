@@ -9,9 +9,11 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+---
+
 # POC Sou Swift
 
-<p >
+<p>
 Projeto de <strong>Proof of Concept (POC)</strong> desenvolvido em <strong>Java com Spring Boot 4</strong>, aplicando conceitos de <strong>Arquitetura Limpa</strong> e boas práticas de desenvolvimento.
 </p>
 
@@ -38,5 +40,3 @@ O projeto foi desenvolvido com foco em:
 - **Git** com **Conventional Commits**
 - **Docker** para containerização
 - **Spring Security** (integrado com Cognito)
-
----
